@@ -1,3 +1,4 @@
+# AR Coin Game 🪙 — The updated version is available in the folder "game2.0". Check it out!
 # AR Coin Game 🪙
 
 An interactive Augmented Reality coin-catching game using computer vision and hand tracking. Catch falling coins with your hand movements while avoiding dangerous bombs!
