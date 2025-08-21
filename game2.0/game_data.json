@@ -1,0 +1,79 @@
+{
+  "high_score": 111,
+  "stats": {
+    "games_played": 16450,
+    "total_coins_caught": 541584,
+    "total_bombs_avoided": 5267,
+    "total_time_played": 1174769,
+    "best_combo": 71,
+    "achievements": [
+      "first_coin",
+      "perfectionist",
+      "combo_master",
+      "speed_demon",
+      "centurion"
+    ]
+  },
+  "leaderboard": [
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 74
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 75
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 75
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 75
+    },
+    {
+      "score": 111,
+      "date": "2025-08-21 19:59",
+      "combo": 71,
+      "time": 75
+    }
+  ]
+}
