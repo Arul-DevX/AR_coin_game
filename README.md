@@ -21,7 +21,8 @@ AR Coin Game is a fun, gesture-controlled game where you use your hand to catch 
 - **Visual Feedback**: Clear score display and game over screen
 - **Bomb Obstacles**: Adds challenge and strategy to gameplay
 - **Restart Functionality**: Press 'R' to restart after game over
-
+## Demo
+![Game Demo](demo.gif)
 ## 🛠 Requirements
 
 ### Python Dependencies
